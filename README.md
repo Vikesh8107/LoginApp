@@ -1,35 +1,28 @@
-<!-- English Readme -->
-<details>
-<summary><strong>English Readme</strong></summary>
+## title {.tabset .tabset-fade}
+content above tabbed region.
 
-### English Readme
+### tab Social-Media
 
-This is the English version of the README.
+tab content Social-Media
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
+### tab Contact
 
-</details>
+tab content  Contact
 
-<!-- Readme -->
-<details>
-<summary><strong>Readme</strong></summary>
+### tab Revisions
 
-### Readme
+tab content  Revisions
 
-This is the default version of the README.
+### tab Articles
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
+tab content  Articles
 
-</details>
+### tab Skills
 
-<!-- License -->
-<details>
-<summary><strong>License</strong></summary>
+tab content  Skills
 
-### License
+### tab Insights
 
-This is where your license information goes.
+tab content  Insights
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
-
-</details>
+content below tabbed region
