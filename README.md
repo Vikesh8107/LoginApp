@@ -1,26 +1,36 @@
-# hello_world
+# Multi-Language README Example
 
-A new Flutter project created with https://flutlab.io
+Click on the language tabs to switch between languages.
 
-## Getting Started
+<details>
+<summary><strong>English</strong></summary>
 
-This project is a starting point for a Flutter application.
+### English
 
-A few resources to get you started if this is your first Flutter project:
+This is the English version of the README.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</details>
 
-## Getting Started: FlutLab - Flutter Online IDE
+<details>
+<summary><strong>Français</strong></summary>
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
+### Français
 
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+Ceci est la version française du README.
 
-You can contribute to this repo...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
+
+</details>
+
+<details>
+<summary><strong>हिन्दी</strong></summary>
+
+### हिन्दी
+
+यह README का हिन्दी संस्करण है।
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
+
+</details>
