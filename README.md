@@ -1,28 +1,31 @@
-## title {.tabset .tabset-fade}
-content above tabbed region.
+# Multi-Language README Example
 
-### tab Social-Media
+Click on the language links below to switch between languages:
 
-tab content Social-Media
+- [English](#english)
+- [中文](#chinese)
+- [Español](#spanish)
 
-### tab Contact
+---
 
-tab content  Contact
+## English
 
-### tab Revisions
+This is the English version of the README.
 
-tab content  Revisions
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
 
-### tab Articles
+---
 
-tab content  Articles
+## 中文
 
-### tab Skills
+这是README的中文版本。
 
-tab content  Skills
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
 
-### tab Insights
+---
 
-tab content  Insights
+## Español
 
-content below tabbed region
+Esta es la versión en español del README.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac eros ultricies, molestie libero et, dignissim risus. Nulla facilisi. Proin vel tincidunt metus.
