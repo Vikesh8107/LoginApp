@@ -5,3 +5,5 @@
 
 Click on the language buttons below to switch between English and Chinese:
 
+This is the Repository where we are testing the files like code of conduct and the Readme files.
+
